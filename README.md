@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oldDanbi97.
+- 👀 I’m interested in 🍕,🥐,🍣 and javascript.
+- 🌱 I’m currently learning three.js.
