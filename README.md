@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @oldDanbi97.
-- 👀 I’m interested in 🍕,🥐,🍣 and nuxt.js.
+- 👀 I’m interested in 🍕,🥐,🍣 and nuxt.js, react.js.
