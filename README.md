@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @oldDanbi97.
-- 👀 I’m interested in 🍕,🥐,🍣 and Spring, nuxt.js.
+
